@@ -1,0 +1,7 @@
+123 C Mary Cross 0.0 16 24
+211 S Andrew Green 1700.0
+113 C Lucy Lanning -7.0 3 12
+777 S Kierre SKy 120.0
+587 C Linda Popo 5000.0 12 12
+784 C Dave Dikey 6000.88 10 44
+690 S Sammy Wammy 5000.88

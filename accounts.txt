@@ -1,0 +1,9 @@
+123 C Mary Cross 50000.00 15 24
+211 S Andrew Green 2500.00
+145 S Vaughn Hope 75000.00
+113 C Lucy Lanning -7.00 3 12
+847 S Marso Dede 400.00
+777 S Kierre SKy 120.00
+587 C Linda Popo 5000.00 12 12
+784 C Dave Dikey 7000.88 9 44
+690 S Sammy Wammy 4000.88

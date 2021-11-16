@@ -1,0 +1,13 @@
+D 145 50.25
+W 211 800.00 Andrew Green
+D 145 72.00
+C 145 Vaughn Hope
+D 587 1
+C 211 Mary Cross
+T 784 690 1000.00 Andrew Green
+T 784 690 1000.00 Dave Dikey
+T 690 690 1000.00 Sammy Wammy
+W 123 50000 Mary Cross
+W 847 800.00 Marso Dede
+C 847 Marso Dede
+C 113 Lucy Lanning
