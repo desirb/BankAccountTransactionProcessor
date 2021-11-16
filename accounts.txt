@@ -7,3 +7,4 @@
 587 C Linda Popo 5000.00 12 12
 784 C Dave Dikey 7000.88 9 44
 690 S Sammy Wammy 4000.88
+900 S Poor Boy 0

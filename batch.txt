@@ -11,3 +11,13 @@ W 123 50000 Mary Cross
 W 847 800.00 Marso Dede
 C 847 Marso Dede
 C 113 Lucy Lanning
+D 690 2000
+W 113 5 Lucy Lanning
+T 113 123 100 Lucy Lanning
+T 690 113 8000 Sammy Wammy
+W 784 1 David De
+T 784 900 1 David De
+W 784 1 Dave Dikey
+T 784 900 1 Dave Dikey
+D 900 100
+W 900 1 Poor Boy

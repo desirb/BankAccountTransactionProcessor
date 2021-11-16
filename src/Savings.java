@@ -11,7 +11,7 @@ public class Savings extends Account{
 		if (a.getOwner().equalsIgnoreCase(owner) == false){
 			System.out.println("The owner of account " + a.getNumber() + " could not be verified. The withdrawal could not be completed.");
 		}else if(a.getBalance() - amt < 0) {
-			System.out.println("The balance of $" + a.getBalance() + " on account " + a.getNumber() + " does not meet the requirements for a withdrawal. The transaction could not be completed.");
+			System.out.println("The balance of $" + a.getBalance() + " on account " + a.getNumber() + " does not meet the requirements for a $" + amt + " withdrawal. The transaction could not be completed.");
 		}else if(a.getBalance() - amt < MIN_BALANCE) {
 			a.setBalance(a.getBalance() - FEE);
 			a.setBalance(a.getBalance() - amt);
@@ -38,7 +38,7 @@ public class Savings extends Account{
 		if (a.getOwner().equalsIgnoreCase(owner) == false){
 			System.out.println("The owner of account " + a.getNumber() + " could not be verified. The transfer could not be completed.");
 		}else if(a.getBalance() - amt < 0) {
-			System.out.println("The balance of $" + a.getBalance() + " on account " + a.getNumber() + " does not meet the requirements for a transfer. This transaction could not be completed.");
+			System.out.println("The balance of $" + a.getBalance() + " on account " + a.getNumber() + " does not meet the requirements for a $" + amt + " transfer. This transaction could not be completed.");
 		}else if(a.getBalance() - amt < MIN_BALANCE) {
 			a.setBalance(a.getBalance() - FEE);
 			a.setBalance(a.getBalance() - amt);

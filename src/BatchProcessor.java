@@ -3,7 +3,7 @@
  * Fall 2021
  * CMS 270 : Object Oriented Programming
  * 
- * This program is designed to read a text file of a accounts and transactions placed on those accounts formatted in a specific manner. After processing a month's
+ * This program is designed to read a text file of a accounts as well as transactions placed on those accounts; each formatted in a specific manner. After processing a month's
  * worth of transactions the program will update the account file after computing said transactions.
  */
 import java.io.File;
@@ -122,7 +122,6 @@ public class BatchProcessor {
 						output.write(d.getNumber() + " C " + d.getOwner() + " " + d.getBalance() + " " + ((Checking) d).getNumCheck() + " " + ((Checking) d).getMaxCheck() + "\n");
 					}
 				}
-				//output.write(accounts.toString());
 				output.close();
 			}catch(IOException e) {
 				System.out.println("An error has occured.");
